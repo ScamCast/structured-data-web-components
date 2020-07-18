@@ -3,14 +3,14 @@ Web Components empowered with Structured Data through schema.org and JSON-LD
 Demo
 ====
 
-[http://polymerlabs.github.io/structured-data-web-components/demo/](http://polymerlabs.github.io/structured-data-web-components/demo/)
+[http://googlearchive.github.io/structured-data-web-components/demo/](http://googlearchive.github.io/structured-data-web-components/demo/)
 
 To run the demo locally
 =======================
 
     // Clone the repo
 
-    $ git clone https://github.com/PolymerLabs/structured-data-web-components.git
+    $ git clone https://github.com/googlearchive/structured-data-web-components.git
 
     // Enter the demo's directory
 
